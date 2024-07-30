@@ -1,0 +1,19 @@
+{
+  "name": "adventure-game-by-rayyan-moin",
+  "version": "1.0.0",
+  "description": "A console-based game developed using Typescript & Node.js",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rayyan Moin",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
